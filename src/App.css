@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+.custom-box {
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  opacity: 0.8;
+  background-color:  #351952; 
+  border: 10px solid #888;
+  border-radius: 20px;
+  box-shadow: 8px 13px 9px rgba(0, 0, 0, 0.3);
+  color: #fbfbfb; 
+}
+
+h1{
+  font-family: 'Edu TAS Beginner', cursive;
+}
+
+/* App.css */
+
+
+#position{
+  position: relative;
+  top: 250px;
+  right: 65px;
+}
+option{
+  background-color: #4a5c3d;
+  opacity: 0.5;
+  color: #ffc107;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: large;
+  
+}
+
+
+p{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: large;
+}
+.foot{
+ 
+  font-size: medium;
+}
+
+.pri{
+  color: #ffc107;
+  font-weight: bolder;
+  font-size: medium;
+}
+
